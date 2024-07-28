@@ -1,0 +1,18 @@
+div {
+  background-color: green;
+  border: red;
+  height: 100px;
+  width: 100px;
+}
+#sim {
+  color: yellow;
+}
+.simha {
+  color: blue;
+}
+
+#fix {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
