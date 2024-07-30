@@ -1,0 +1,33 @@
+#para1 {
+  text-align: center;
+  color: burlywood;
+}
+.center {
+  text-align: center;
+  color: goldenrod;
+}
+#jagan {
+  background-color: lightgray;
+  width: 300px;
+  border: 15px solid red;
+  padding: 50px;
+  margin: 20px;
+}
+
+div .p {
+  position: absolute;
+  background-color: lightgray;
+  width: 300px;
+  border: 15px solid red;
+  padding: 50px;
+  margin: 20px;
+  left: 461px;
+  bottom: 1512px;
+  top: 101px;
+}
+
+span.center {
+  background-color: lightgray;
+  width: 300px;
+  border: 25px solid blueviolet;
+}
